@@ -21,6 +21,13 @@ router.create('/putGate', (req, res) => {
     });
 });
 
+router.get('/getGate', (req, res) => {
+    LogicGate.find((err, data) => {
+        if(err) return res.json({success: false, error: err});
+        return res.json({success: true, data: data});
+    });
+});
+
 router.delete('/deleteGate', (req, res) => {
     await LogicGate.findOneAndDelete({_id: req.params.id}, (err,LogicGate) => {
         if(err){
@@ -35,4 +42,12 @@ router.delete('/deleteGate', (req, res) => {
 
         return res.status(200).json({success: true, data: LogicGate});
     }).catch(err => console.log(err));
+});
+
+router.patch('/updateGate', (req, res) => {
+    const{id, update} = req.body;
+    LogicGate.findByIdAndUpdate(id, update, (err) => {
+        if(err) return res.json({success: false, error: err});
+        return res.json({success: true});
+    });
 });
