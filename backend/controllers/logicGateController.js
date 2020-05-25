@@ -51,3 +51,7 @@ router.patch('/updateGate', (req, res) => {
         return res.json({success: true});
     });
 });
+
+app.use('/api', router);
+
+app.listen(API_POR, () => console.log(`LISTENING ON PORT ${API_PORT}`));
