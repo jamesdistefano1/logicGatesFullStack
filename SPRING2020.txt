@@ -1,0 +1,18 @@
+SPRING 2020 STATE OF THE PROJECT 
+
+Note: you need to install npm (node package manager) in the logicGates folder before running.
+
+
+This project started off open ended, with it up to us from top to bottom to decide what technologies we could and should use.  After some debate and research, we decided on using a MERN stack in general.  We arrived at this in particular for a couple reasons:  Firstly that it was new technology for us, and good things to learn, but also because of considerations regarding how we wanted to store data (ideally as Javascript objects) and how that could be easily passed around through our system.
+  
+As a service that also needs to be secure from student tampering, we decided that the only thing that should be sent from the client to the server is the location of the various logic gate pieces, so it could be independently assessed serverside.  This means that we would have the ability to share code on both the front and back end in javascript for feedback for the user and grading on the server, resulting in consistency and developer efficiency.  This also made Node.js specifically appealing for this project.  
+
+We found that React heavily relies on javascript objects, and that components can be updated based on the "state" of javascript objects automatically.  We made some inroads into understanding this and employing this as it relates to rendering logic gates on a canvas.  
+
+For visual assets, after discovering that SVGs (Scalable Vector Graphics) can be drawn just as easily as image files and are indeed preferable visually and otherwise (as they are XML assets that can be programmatically interacted with) we settled on using them for our projct.  Numerous ones of these have been created for various gates and a couple of switches. 
+
+
+
+IMMEDIATE NEXT TASKS (As we see it)
+
+-Getting lines to render between start/endpoints on wires
