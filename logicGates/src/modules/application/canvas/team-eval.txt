@@ -1,0 +1,244 @@
+#################################################################
+#                CISC 475 Team Evaluation Form                  #
+#################################################################
+
+# This form will be processed by a computer program.  Edit this form
+# only with a plain-text editor or directly in the Sakai assignment
+# submission area.  Use only ASCII characters.  When you are finished,
+# copy and paste the complete text of this form into the Sakai
+# assignment submission area.  Do NOT submit it as an attachment.
+
+# Any line starting with a hash symbol (#) will be ignored.
+
+# Insert your user name after the colon.  Your username is the first
+# part of the email address you are using for this class.  For
+# example, if your email address is mozart@udel.edu, your username
+# is mozart.  It does not matter if there are any spaces between the
+# colon and the first character of your username.
+
+Your USERNAME ----------------------------->: Stephen Moss
+
+# Insert today's date using the format YYYY-MM-DD.  For example,
+# 2012-02-27 represents February 27, 2012.
+
+Today's date ------------------------------>: 5/3/20
+
+# The remainder of this form requires you to evaluate each team member
+# in several areas.  You are asked to respond to each statement with
+# an integer number between 1 and 5 (inclusive) to indicate how
+# strongly you agree or disagree with the statement about the team
+# member.  The numbers have the following meaning:
+
+#     1. Strongly Disagree
+#     2. Disagree
+#     3. Neither Agree nor Disagree
+#     4. Agree
+#     5. Strongly Agree
+
+# Note that 5 IS THE BEST and 1 IS THE WORST!!
+
+# The 6 evaluation areas are as follows:
+
+# Meetings: Team member attended, was on time, and was productive in
+# meetings.
+
+# Communication: Team member communicated promptly, politely, and
+# effectively.
+
+# Deadlines: Team member completed tasks by team deadlines.
+
+# Product: Team member's work was well-designed and correct when
+# submitted to team.
+
+# Effort: Team member did their fair share of the work.
+
+# Overall: Team member was productive, cooperative, and made a
+# significant contribution.
+
+# Complete one of the templates below for each member of your team,
+# INCLUDING yourself.  Six templates are included below, but you may
+# simply copy and paste the template as many times as you need for
+# additional team members.
+
+########################################################################
+
+Team Member USERNAME ---------------------->: James DiStefano
+
+Meetings (1-5) ---------------------------->: 5
+Communication (1-5) ----------------------->: 4
+Deadlines (1-5) --------------------------->: 4
+Product (1-5) ----------------------------->: 4
+Effort (1-5) ------------------------------>: 3
+Overall (1-5) ----------------------------->: 4
+
+# If you have comments you would like to share about this team member
+# that will be seen only by the instructor and TA, insert them below.
+# Do not remove or modify the start and end lines.
+
+-------------------- Confidential Comment Start ----------------------->
+
+Probably the second most interactive and engaged.  Takes initiative but that has tapered off towards the latter half.
+
+<-------------------  Confidential Comment End  ------------------------
+
+
+# If you have comments you would like to share with this team member,
+# insert them between the "start" and "end" lines below. THE TEAM
+# MEMBER WILL SEE THIS COMMENT.
+
+---------------------- Visible Comment Start -------------------------->
+<---------------------  Visible Comment End  ---------------------------
+
+########################################################################
+
+Team Member USERNAME ---------------------->: Matthew Grossman
+
+Meetings (1-5) ---------------------------->: 5
+Communication (1-5) ----------------------->: 5
+Deadlines (1-5) --------------------------->: 4
+Product (1-5) ----------------------------->: 4
+Effort (1-5) ------------------------------>: 4
+Overall (1-5) ----------------------------->: 5
+
+# If you have comments you would like to share about this team member
+# that will be seen only by the instructor and TA, insert them below.
+# Do not remove or modify the start and end lines.
+
+-------------------- Confidential Comment Start ----------------------->
+
+Easily the most interactive and engaged, trying to get things moving and lead stuff. Closest thing we have to a leader right now.
+
+<-------------------  Confidential Comment End  ------------------------
+
+
+# If you have comments you would like to share with this team member,
+# insert them between the "start" and "end" lines below. THE TEAM
+# MEMBER WILL SEE THIS COMMENT.
+
+---------------------- Visible Comment Start -------------------------->
+
+<---------------------  Visible Comment End  ---------------------------
+
+########################################################################
+
+Team Member USERNAME ---------------------->: Zhuohao Liu
+
+Meetings (1-5) ---------------------------->: 1
+Communication (1-5) ----------------------->: 1
+Deadlines (1-5) --------------------------->: 2
+Product (1-5) ----------------------------->: 2
+Effort (1-5) ------------------------------>: 2
+Overall (1-5) ----------------------------->: 2
+
+# If you have comments you would like to share about this team member
+# that will be seen only by the instructor and TA, insert them below.
+# Do not remove or modify the start and end lines.
+
+-------------------- Confidential Comment Start ----------------------->
+
+Really doesn't talk or say much, not contributing much if anything in work or ideas.  I hate to be blunt but you hardly know he's there to be honest.
+
+<-------------------  Confidential Comment End  ------------------------
+
+
+# If you have comments you would like to share with this team member,
+# insert them between the "start" and "end" lines below. THE TEAM
+# MEMBER WILL SEE THIS COMMENT.
+
+---------------------- Visible Comment Start -------------------------->
+<---------------------  Visible Comment End  ---------------------------
+
+########################################################################
+
+Team Member USERNAME ---------------------->: David Olaoye
+
+Meetings (1-5) ---------------------------->: 2
+Communication (1-5) ----------------------->: 2
+Deadlines (1-5) --------------------------->: 4
+Product (1-5) ----------------------------->: 4
+Effort (1-5) ------------------------------>: 4
+Overall (1-5) ----------------------------->: 3
+
+# If you have comments you would like to share about this team member
+# that will be seen only by the instructor and TA, insert them below.
+# Do not remove or modify the start and end lines.
+
+-------------------- Confidential Comment Start ----------------------->
+
+Passive and a listener, doesn't add much in communication unless specifically prompted.  However, does decent work and overall an asset, and built 
+our page layout when we asked him to.  Just wish he'd be more proactive and talk and communicate more.
+
+<-------------------  Confidential Comment End  ------------------------
+
+
+# If you have comments you would like to share with this team member,
+# insert them between the "start" and "end" lines below. THE TEAM
+# MEMBER WILL SEE THIS COMMENT.
+
+---------------------- Visible Comment Start -------------------------->
+<---------------------  Visible Comment End  ---------------------------
+
+########################################################################
+
+Team Member USERNAME ---------------------->: Prescott Weems 
+
+Meetings (1-5) ---------------------------->: 3
+Communication (1-5) ----------------------->: 3
+Deadlines (1-5) --------------------------->: 3
+Product (1-5) ----------------------------->: 4
+Effort (1-5) ------------------------------>: 5
+Overall (1-5) ----------------------------->: 3
+
+# If you have comments you would like to share about this team member
+# that will be seen only by the instructor and TA, insert them below.
+# Do not remove or modify the start and end lines.
+
+-------------------- Confidential Comment Start ----------------------->
+
+Difficult combination of good and bad.  Talented, but forceful in advocacy for strange things like being vehemently opposed to using libraries (What???) 
+and at one point claimed explicitly false things about React.js because he was invested in just using vanilla javascript.  I think what he likes when he 
+codes is building absolutely *everything* from the ground up to either have micropscopic control over all aspects and/or to have the pride of everything 
+from top to bottom being his brainchild.  And that is cool and admirable, and he has built some impressive stuff on his own time, but it is unfortunately 
+antithetical to the process of software engineering and this has caused us problems, particularly in the first half of the semester as we struggled to try to 
+figure things out, and things got somewhat frustrating.  He is a great coder, detail oriented, and can produce designs and ideas out of his head literally 
+faster than I can even keep up, but I think he has to adapt to the way industry works and to learn to be less emotionally invested in specific technologies 
+and coding minutiae so his clear talents can shine through in the professional settings and roles where he is working with others.
+
+<-------------------  Confidential Comment End  ------------------------
+
+
+# If you have comments you would like to share with this team member,
+# insert them between the "start" and "end" lines below. THE TEAM
+# MEMBER WILL SEE THIS COMMENT.
+
+---------------------- Visible Comment Start -------------------------->
+
+
+
+<---------------------  Visible Comment End  ---------------------------
+
+########################################################################
+
+Team Member USERNAME ---------------------->:
+
+Meetings (1-5) ---------------------------->:
+Communication (1-5) ----------------------->:
+Deadlines (1-5) --------------------------->:
+Product (1-5) ----------------------------->:
+Effort (1-5) ------------------------------>:
+Overall (1-5) ----------------------------->:
+
+# If you have comments you would like to share about this team member
+# that will be seen only by the instructor and TA, insert them below.
+# Do not remove or modify the start and end lines.
+
+-------------------- Confidential Comment Start ----------------------->
+<-------------------  Confidential Comment End  ------------------------
+
+
+# If you have comments you would like to share with this team member,
+# insert them between the "start" and "end" lines below. THE TEAM
+# MEMBER WILL SEE THIS COMMENT.
+
+---------------------- Visible Comment Start -------------------------->
+<---------------------  Visible Comment End  ---------------------------

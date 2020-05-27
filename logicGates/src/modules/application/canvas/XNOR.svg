@@ -17,7 +17,7 @@
    version="1.1"
    id="svg861"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="NOR.svg">
+   sodipodi:docname="XNOR.svg">
   <defs
      id="defs855">
     <inkscape:path-effect
@@ -102,9 +102,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6383582"
-     inkscape:cx="252.17302"
-     inkscape:cy="68.461872"
+     inkscape:zoom="1.4327271"
+     inkscape:cx="252.33058"
+     inkscape:cy="58.508"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -187,5 +187,11 @@
        cx="113.6355"
        cy="256.83185"
        r="3.6358826" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.20835042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.330784,233.19084 c 7.219555,12.93923 13.551158,29.3469 -0.249159,48.23923"
+       id="path3929-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

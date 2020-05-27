@@ -11,15 +11,25 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="600"
-   height="300"
-   viewBox="0 0 158.75 79.375002"
+   width="250"
+   height="200"
+   viewBox="0 0 66.145834 52.916668"
    version="1.1"
    id="svg861"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="2_input_base.svg">
+   sodipodi:docname="OUTPUT.svg">
   <defs
      id="defs855">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1970"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <linearGradient
        id="linearGradient3270"
        osb:paint="solid">
@@ -47,33 +57,13 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3270"
-       id="linearGradient3272"
-       x1="4.8108516"
-       y1="255.84048"
-       x2="13.363476"
-       y2="255.84048"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92592595,0,0,0.92592586,18.044292,33.652345)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3270"
        id="linearGradient3272-0"
        x1="4.8108516"
        y1="255.84048"
        x2="13.363476"
        y2="255.84048"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92592595,0,0,0.92592585,18.044292,7.1940086)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3270"
-       id="linearGradient3272-0-7"
-       x1="4.8108516"
-       y1="255.84048"
-       x2="13.363476"
-       y2="255.84048"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92592595,0,0,0.92592585,123.87762,20.423148)" />
+       gradientTransform="matrix(0.92592595,0,0,0.92592585,18.044294,33.652337)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -82,9 +72,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91535343"
-     inkscape:cx="339.79532"
-     inkscape:cy="206.81165"
+     inkscape:zoom="1.979899"
+     inkscape:cx="19.908424"
+     inkscape:cy="89.277266"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -103,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,24 +101,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-217.62499)">
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient3272);stroke-width:0.97993827;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="path1406"
-       cx="26.458334"
-       cy="270.54166"
-       r="6.1246142" />
+     transform="translate(0,-244.08332)">
     <circle
        style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient3272-0);stroke-width:0.97993827;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        id="path1406-9"
        cx="26.458334"
-       cy="244.08333"
+       cy="270.54166"
        r="6.1246147" />
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient3272-0-7);stroke-width:0.97993827;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="path1406-9-8"
-       cx="132.29167"
-       cy="257.3125"
-       r="6.1246147" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.501632,245.1497 c 0,0 17.907059,-0.13363 17.907059,-0.13363"
+       id="path1968"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1970"
+       inkscape:original-d="m 15.501632,245.1497 17.907059,-0.13363"
+       transform="rotate(0.58116624,-2440.1975,1973.784)" />
   </g>
 </svg>

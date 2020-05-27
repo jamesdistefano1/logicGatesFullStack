@@ -17,9 +17,29 @@
    version="1.1"
    id="svg861"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="2_input_base.svg">
+   sodipodi:docname="1_input_base.svg">
   <defs
      id="defs855">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect917"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect895"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <linearGradient
        id="linearGradient3270"
        osb:paint="solid">
@@ -47,23 +67,13 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3270"
-       id="linearGradient3272"
-       x1="4.8108516"
-       y1="255.84048"
-       x2="13.363476"
-       y2="255.84048"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92592595,0,0,0.92592586,18.044292,33.652345)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3270"
        id="linearGradient3272-0"
        x1="4.8108516"
        y1="255.84048"
        x2="13.363476"
        y2="255.84048"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92592595,0,0,0.92592585,18.044292,7.1940086)" />
+       gradientTransform="matrix(0.92592595,0,0,0.92592585,18.044293,20.42317)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3270"
@@ -73,7 +83,27 @@
        x2="13.363476"
        y2="255.84048"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92592595,0,0,0.92592585,123.87762,20.423148)" />
+       gradientTransform="matrix(0.92592595,0,0,0.92592585,123.87762,20.423159)" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect895-7"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect917-0"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -82,9 +112,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91535343"
-     inkscape:cx="339.79532"
-     inkscape:cy="206.81165"
+     inkscape:zoom="1.6171875"
+     inkscape:cx="295.37637"
+     inkscape:cy="174.62195"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -103,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,16 +143,10 @@
      id="layer1"
      transform="translate(0,-217.62499)">
     <circle
-       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient3272);stroke-width:0.97993827;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="path1406"
-       cx="26.458334"
-       cy="270.54166"
-       r="6.1246142" />
-    <circle
        style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient3272-0);stroke-width:0.97993827;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        id="path1406-9"
        cx="26.458334"
-       cy="244.08333"
+       cy="257.3125"
        r="6.1246147" />
     <circle
        style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient3272-0-7);stroke-width:0.97993827;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
