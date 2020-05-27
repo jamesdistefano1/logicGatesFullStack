@@ -5,7 +5,7 @@ import And from  './And.js';
 import Or from  './Or.js';
 import Nand from './Nand.js';
 import Nor from './Nor.js';
-
+import Wire from './Wire.js';
 
 
 class Canvas extends React.Component{
@@ -28,9 +28,9 @@ class Canvas extends React.Component{
           {
             this.state.gateArray.map((gate)=>{
               console.log(gate.type);
-              if (gate.type == "OR"){ 
+              if (gate.type == "WIRE"){ 
                 return(
-                  <Or />
+                  <Wire />
 	        )
 	      }
 	      if (gate.type == "AND"){
