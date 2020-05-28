@@ -61,6 +61,16 @@ class logicGate extends React.Component{
       }
     }
 
+
+    callAPI(){
+      fetch("http://localhost:9000/logicGateController")
+        .then(res => res.text())
+        .then(res => this.setState({ apiResponse: res}));
+    }
+
+    componentWillMount(){
+      this.callAPI();
+    }
     
   
     render(){ // I think we need to edit this right here thing to make it work
