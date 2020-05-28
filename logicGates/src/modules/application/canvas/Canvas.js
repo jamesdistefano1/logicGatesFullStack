@@ -12,8 +12,9 @@ class Canvas extends React.Component{
   
   state = {
     gateArray : [
-      {type: "OR"}, 
+      {type: "NOR"}, 
       {type: "OR"},
+      {type: "NAND"},
       {type: "AND"}
     ]
   }
@@ -37,6 +38,18 @@ class Canvas extends React.Component{
 		return (
                   <And />
                 )
+	      }
+
+	      if (gate.type == "NAND"){
+	        return( 
+	          <Nand />
+		)
+	      }
+
+	      if (gate.type == "NOR"){
+		return(
+		  <Nor />
+		)
 	      }
 	    })	    
 	  }
