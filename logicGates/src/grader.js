@@ -6,3 +6,13 @@
 - And then it will make sure everything matches up.*/
 import logicGate from '../logicGates/src/logicGate.js';
 
+
+class Grader extends React.Component {
+
+    constructor(studentSub, teacherSub, studentSpecs, teacherSpecs) {
+        super();
+        this.studentSub = studentSub;
+        this.teacherSub = teacherSub;
+    }
+    // the idea here is that
+}
