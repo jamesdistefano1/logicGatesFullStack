@@ -1,0 +1,9 @@
+{
+  "numInputs":1,
+  "numOutputs":1,
+  "restrictions":{},
+  "table":[
+    true,
+    false
+  ]
+}
