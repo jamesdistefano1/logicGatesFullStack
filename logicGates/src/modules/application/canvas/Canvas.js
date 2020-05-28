@@ -13,7 +13,8 @@ class Canvas extends React.Component{
   state = {
     gateArray : [
       {type: "OR"}, 
-      {type: "OR"},
+      {type: "NAND"},
+      {type: "NOR"},
       {type: "AND"}
     ]
   }
@@ -28,15 +29,27 @@ class Canvas extends React.Component{
           {
             this.state.gateArray.map((gate)=>{
               console.log(gate.type);
-              if (gate.type == "WIRE"){ 
+              if (gate.type == "OR"){ 
                 return(
-                  <Wire />
+                  <Or />
 	        )
 	      }
 	      if (gate.type == "AND"){
 		return (
                   <And />
                 )
+	      }
+
+              if (gate.type == "NAND"){
+		return( 
+		  <Nand />
+		)
+	      }
+	      
+              if (gate.type == "NOR"){
+                return(
+		  <Nor />
+		)
 	      }
 	    })	    
 	  }

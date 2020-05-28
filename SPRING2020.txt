@@ -9,7 +9,7 @@ As a service that also needs to be secure from student tampering, we decided tha
 
 We found that React heavily relies on javascript objects, and that components can be updated based on the "state" of javascript objects automatically.  These javascript objects could keep a record of what the client is doing in real time and be sent to the server.  We made some inroads into understanding this and employing this as it relates to rendering logic gates on a canvas.  
 
-For visual assets, after discovering that SVGs (Scalable Vector Graphics) can be drawn just as easily as image files and are indeed preferable visually and otherwise (as they are XML assets that can be programmatically interacted with) we settled on using them for our projct.  Numerous ones of these have been created for various gates and a couple of switches. 
+For visual assets, after discovering that SVGs (Scalable Vector Graphics) can be drawn just as easily as image files and are indeed preferable visually and otherwise (as they are XML assets that can be programmatically interacted with) we settled on using them for our projct.  Numerous ones of these have been created for various gates and a couple of switches. These are moved around the canvas area using the react-draggable library.
 
 
 
