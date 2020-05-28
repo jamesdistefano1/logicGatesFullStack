@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Tweet from './tewwt'
+//import Tweet from './tewwt'
 import Table from './table'
 import Header from './header'
 import ReactDOM from 'react-dom';

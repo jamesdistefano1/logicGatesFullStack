@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Draggable from 'react-draggable';
-import logicGate from './logicGate.js';
+//import logicGate from './logicGate.js';
 
 function And(){
 
