@@ -1,0 +1,14 @@
+{
+  "numInputs":2,
+  "numOutputs":1,
+  "restrictions":{
+    "NAND":true,
+    "other":false,
+  },
+  "table":[
+    false,
+    true,
+    true,
+    true
+  ]
+}
