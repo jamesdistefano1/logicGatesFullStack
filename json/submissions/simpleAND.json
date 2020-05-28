@@ -1,0 +1,47 @@
+{
+  "gates" : [
+    {
+      "type" : "IN",
+      "inIndex" : 0,
+      "x" : 0,
+      "y" : 100
+    },
+    {
+      "type" : "IN",
+      "inIndex" : 1,
+      "x" : 0,
+      "y" : 300
+    },
+    {
+      "type" : "OUT",
+      "outIndex" : 0,
+      "x" : 600,
+      "y" : 200
+    },
+    {
+      "type" : "AND",
+      "x" : 200,
+      "y" : 200
+    }
+  ],
+  "wires" : [
+    {
+      "from" : 0,
+      "fromPort" : 1,
+      "to" : 3,
+      "toPort" : 0
+    },
+    {
+      "from" : 1,
+      "fromPort" : 0,
+      "to" : 3,
+      "toPort" : 1
+    },
+    {
+      "from" : 3,
+      "fromPort" : 0,
+      "to" : 2,
+      "toPort" : 0
+    }
+  ]
+}
